@@ -13,6 +13,13 @@ nico-resident is a support tools for [Nicovideo's  ranking ](http://www.nicovide
 - [ ] Manage favorite.
 - [ ] Auto check rankings.
 
+## Install
+Please download from [Releases page](https://github.com/abouthiroppy/nico-resident/releases).
+
+```
+mac: nico-resident-darwin-x64
+win: nico-resident-win32-x64
+```
 ## Development
 ```
 $ git clone git@github.com:abouthiroppy/nico-resident.git
