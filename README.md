@@ -10,7 +10,7 @@ nico-resident is a support tools for [Nicovideo's  ranking ](http://www.nicovide
 - [x] Period filters.
 - [x] Category filters.
 - [ ] Manage user's history.
-- [ ] Manage favorite.
+- [ ] Manage user's favorite.
 - [ ] Auto check rankings.
 
 ## Install
