@@ -3,7 +3,7 @@
 nico-resident is a support tools for [Nicovideo's  ranking ](http://www.nicovideo.jp/ranking).
 
 
-![]('./gif/intro.gif')
+![](gif/intro.gif)
 
 ## Features
 - [x] List of rankings.
